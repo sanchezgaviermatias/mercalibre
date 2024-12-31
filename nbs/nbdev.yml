@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mercalibre"
+  site-url: "https://sanchezgaviermatias.github.io/mercalibre"
+  description: "repo para trackear precios de mercado libre"
+  repo-branch: main
+  repo-url: "https://github.com/sanchezgaviermatias/mercalibre"
